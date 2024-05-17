@@ -1,0 +1,52 @@
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\bin\Debug\biorhythm.exe.config
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\bin\Debug\biorhythm.exe
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\bin\Debug\biorhythm.pdb
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\obj\Debug\biorhythm.Form1.resources
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\obj\Debug\biorhythm.Properties.Resources.resources
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.GenerateResource.Cache
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\obj\Debug\biorhythm.exe
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\obj\Debug\biorhythm.pdb
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\bin\Debug\QAAclasses.dll
+c:\users\bobby\documents\visual studio 2013\Projects\biorhythm\biorhythm\obj\Debug\biorhythm.csprojResolveAssemblyReference.cache
+E:\biorhythm\biorhythm\bin\Debug\biorhythm.exe.config
+E:\biorhythm\biorhythm\obj\Debug\biorhythm.exe
+E:\biorhythm\biorhythm\obj\Debug\biorhythm.pdb
+F:\VS Projects\biorhythm\biorhythm\bin\Debug\biorhythm.exe.config
+F:\VS Projects\biorhythm\biorhythm\bin\Debug\biorhythm.exe
+F:\VS Projects\biorhythm\biorhythm\bin\Debug\biorhythm.pdb
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.AssemblyReference.cache
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.Form1.resources
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.Form2.resources
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.Properties.Resources.resources
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.GenerateResource.cache
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.CoreCompileInputs.cache
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.exe
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.pdb
+F:\VS Projects\biorhythm\biorhythm\bin\Debug\QAAclasses.dll
+F:\VS Projects\biorhythm\biorhythm\bin\Debug\QAAclasses.pdb
+F:\VS Projects\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.Up2Date
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\bin\Debug\biorhythm.exe.config
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\bin\Debug\biorhythm.exe
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\bin\Debug\biorhythm.pdb
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\bin\Debug\QAAclasses.pdb
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.AssemblyReference.cache
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.Form1.resources
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.Form2.resources
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.Properties.Resources.resources
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.GenerateResource.cache
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.CoreCompileInputs.cache
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.Up2Date
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.exe
+C:\Users\bdjte\source\repos\biorhythm\biorhythm\obj\Debug\biorhythm.pdb
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\bin\Debug\biorhythm.exe.config
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\bin\Debug\biorhythm.exe
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\bin\Debug\biorhythm.pdb
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.AssemblyReference.cache
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.Form1.resources
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.Form2.resources
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.Properties.Resources.resources
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.GenerateResource.cache
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.CoreCompileInputs.cache
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.csproj.Up2Date
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.exe
+C:\Users\bdjte\OneDrive\Desktop\biorhythm\biorhythm\obj\Debug\biorhythm.pdb
